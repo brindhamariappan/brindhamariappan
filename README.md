@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently pursuing my final year of **Bachelor's Degree(CSE)** in Francis Xavier Engineering College 
   
-- 📫 How to reach me **shashiprabha2737@gmail.com**.
+- 📫 How to reach me **brindhaamariappan@gmail.com / mbrindha2101@gmail.com**.
   
 - ⚡ Fun Fact: When I’m not coding, you can find me experimenting with new recipes in the kitchen or jamming to my favorite music!🎵.
 
