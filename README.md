@@ -1,21 +1,23 @@
-<!-- Level 3: Add custom code -->
+[![MasterHead](https://img.freepik.com/free-vector/mobile-application-tupography-banner-with-mobile-device-symbols-flat-illustration_1284-29498.jpg?w=1380&t=st=1707575966~exp=1707576566~hmac=d141e7d3a0aea101f57ee3a1d73c17ff16a794cedfb9f7f918854e923d0b6a34)](https://rishavchanda.io)
+<h1 align="center">Hii 👋, I'm Brindha Mariappan</h1>
+<h3 align="center">A Passionate Frontend Developer.</h3>
+<img  align="right"  alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wednesdaysp&label=PROFILE+VIEWS&color=0e75b6&style=plastic&abbreviated=true" alt="WednesdaySP" /> </p>
 
-# 👋 Hi, I'm Brindha!
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studied [Computer Science] at the Francis Xavier Engineering College, Tirunelveli , Tamilnadu<br/>
+- 🔭 I’m currently pursuing my final year of **Bachelor's Degree(CSE)** in Francis Xavier Engineering College 
+  
+- 📫 How to reach me **shashiprabha2737@gmail.com**.
+  
+- ⚡ Fun Fact: When I’m not coding, you can find me experimenting with new recipes in the kitchen or jamming to my favorite music!🎵.
 
+## Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/brindha-m-429466238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashi-prabha-711237241/" height="30" width="40" /></a>
+<a href="https://instagram.com/-brinnnnn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pearl_white003" height="30" width="40" /></a>
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-
-# 💻 Tech Stack
-<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br/>
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+## Languages and Tools:
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman" width="40" height="40"/> </a>  <a href="https://clickup.com/lp?utm_source=google&utm_medium=cpc&utm_campaign=gs_cpc_arlv_nnc_brand_trial_all-devices_troas_lp_x_all-departments_x_brand&utm_content=all-countries_kw-target_text_all-industries_all-features_all-use-cases_clickup_features_productivity_broad&utm_term=b_clickup%20productivity&utm_creative=657686021884_BrandChampion-03072023_rsa&utm_custom1=&utm_custom2=&gad_source=1&gclid=CjwKCAjwqf20BhBwEiwAt7dtdaScXgyL-F_yprC9uXN_qL_kRXmNHA-ZoiBnSV-R4U_vwPQ2JKjuxBoCozYQAvD_BwE" target="_blank" rel="noreferrer"> <img src="https://i.scdn.co/image/ab6761610000e5eb85f93be32018d299b620bcf3" alt="clickup" width="40" height="40"/> </a> 
+</p>
 
 
 
